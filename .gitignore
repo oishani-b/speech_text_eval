@@ -1,0 +1,9 @@
+*.pyc
+.env
+*.csv
+*.log
+*.db
+*.zip
+*.tar.gz
+*.egg-info/
+.vscode/
